@@ -74,6 +74,16 @@ nav button {
   position: absolute;
 }
 
+#filter_close svg{
+  width: 35px;
+  height: 35px;
+}
+
+#filter_open svg {
+  width: 35px;
+  height: 35px;
+}
+
 #filter_menu .show {
   width: 35px;
   display: block;
@@ -570,3 +580,4 @@ footer {
   }
   
 }
+
